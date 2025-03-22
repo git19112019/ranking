@@ -1,4 +1,4 @@
-# Github Ranking
+# Ranking
 
 **A list of the most GitHub stars and forks repositories.**
 
