@@ -2,7 +2,6 @@
 
 **A list of the most GitHub stars and forks repositories.**
 
-*Last Automatic Update Time: 2025-03-22T04:06:43Z*
 
 ## Table of Contents
 
@@ -42,41 +41,3 @@ This is top 10, for more click **[Top 100 Forks](Top100/Top-100-forks.md)**
 | 8 | [bootstrap](https://github.com/twbs/bootstrap) | 171819 | 79060 | JavaScript | 488 | The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web. | 2025-03-21 |
 | 9 | [coding-interview-university](https://github.com/jwasham/coding-interview-university) | 313459 | 78200 | None | 54 | A complete computer science study plan to become a software engineer. | 2024-12-15 |
 | 10 | [css-exercises](https://github.com/TheOdinProject/css-exercises) | 1782 | 76761 | HTML | 3 | None | 2024-10-20 |
-
-## ActionScript
-
-This is top 10, for more click **[Top 100 Stars in ActionScript](Top100/ActionScript.md)**
-
-| Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
-| ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [open-source-flash](https://github.com/open-source-flash/open-source-flash) | 7330 | 112 | ActionScript | 25 | Petition to open source Flash and Shockwave spec | 2021-02-24 |
-| 2 | [VVVVVV](https://github.com/TerryCavanagh/VVVVVV) | 7098 | 560 | ActionScript | 30 | The source code to VVVVVV! http://thelettervsixtim.es/ | 2025-02-18 |
-| 3 | [Starling-Framework](https://github.com/Gamua/Starling-Framework) | 2913 | 820 | ActionScript | 70 | The Cross Platform Game Engine | 2025-01-16 |
-| 4 | [webcamjs](https://github.com/jhuckaby/webcamjs) | 2500 | 1114 | ActionScript | 154 | HTML5 Webcam Image Capture Library with Flash Fallback | 2020-04-22 |
-| 5 | [as3corelib](https://github.com/mikechambers/as3corelib) | 1495 | 448 | ActionScript | 106 | An ActionScript 3 Library that contains a number of classes and utilities for working with ActionScript 3.0 | 2010-05-20 |
-| 6 | [scratch-flash](https://github.com/scratchfoundation/scratch-flash) | 1339 | 513 | ActionScript | 0 | Open source version of the Scratch 2.0 project editor. This is the basis for the online and offline versions of Scratch found on the website. | 2019-02-05 |
-| 7 | [mapgen2](https://github.com/amitp/mapgen2) | 1322 | 210 | ActionScript | 1 | Map generator for games. Generates island maps with a focus on mountains, rivers, coastlines. | 2017-08-24 |
-| 8 | [flixel](https://github.com/AdamAtomic/flixel) | 1136 | 196 | ActionScript | 68 | flixel is a free Actionscript (Flash) library that I distilled from a variety of Flash games that I've worked on over the years. It's pretty powerful, and it's free, so enjoy. | 2015-11-05 |
-| 9 | [as3-signals](https://github.com/robertpenner/as3-signals) | 1057 | 201 | ActionScript | 4 | Signals is a new approach for AS3 events, inspired by C# events and signals/slots in Qt. | 2018-10-11 |
-| 10 | [bfxr](https://github.com/increpare/bfxr) | 995 | 91 | ActionScript | 10 | Flash + AIR sound effects generator. Based on Sfxr. | 2021-06-17 |
-
-## C
-
-This is top 10, for more click **[Top 100 Stars in C](Top100/C.md)**
-
-| Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
-| ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [linux](https://github.com/torvalds/linux) | 190056 | 55262 | C | 0 | Linux kernel source tree | 2025-03-21 |
-| 2 | [scrcpy](https://github.com/Genymobile/scrcpy) | 119387 | 11281 | C | 2249 | Display and control your Android device | 2025-03-12 |
-| 3 | [netdata](https://github.com/netdata/netdata) | 73870 | 6032 | C | 153 | X-Ray Vision for your infrastructure! | 2025-03-22 |
-| 4 | [redis](https://github.com/redis/redis) | 68412 | 23925 | C | 2089 | Redis is an in-memory database that persists on disk. The data model is key-value, but many different kinds of values are supported: strings, hashes, lists, sets, sorted sets, bitmaps, hyperloglogs, geospatial indexes, and streams. | 2025-03-22 |
-| 5 | [Ventoy](https://github.com/ventoy/Ventoy) | 65587 | 4208 | C | 833 | A new bootable USB solution. | 2025-03-03 |
-| 6 | [obs-studio](https://github.com/obsproject/obs-studio) | 62973 | 8273 | C | 591 | OBS Studio - Free and open source software for live streaming and screen recording | 2025-03-20 |
-| 7 | [git](https://github.com/git/git) | 53964 | 26014 | C | 0 | Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via git@vger.kernel.org. Please follow Documentation/SubmittingPatches procedure for any of your improvements. | 2025-03-21 |
-| 8 | [FFmpeg](https://github.com/FFmpeg/FFmpeg) | 48527 | 12469 | C | 0 | Mirror of https://git.ffmpeg.org/ffmpeg.git | 2025-03-22 |
-| 9 | [php-src](https://github.com/php/php-src) | 38797 | 7827 | C | 779 | The PHP Interpreter | 2025-03-21 |
-| 10 | [wrk](https://github.com/wg/wrk) | 38609 | 2974 | C | 143 | Modern HTTP benchmarking tool | 2023-12-30 |
-
-...
-
-(The content continues for other programming languages as listed in the Table of Contents)
